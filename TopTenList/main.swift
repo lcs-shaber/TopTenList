@@ -8,7 +8,7 @@
 import Foundation
 
 
-//Exercise 1
+// Exercise 1
 
 let iceCreamFlavours = ["Watermelon", "Melon", "Pineapple", "Peach", "Green Apple", "Lemon", "Strawberry", "Mango", "Vamilla", "Coconut"]
 
@@ -18,7 +18,8 @@ print(iceCreamFlavours[4])
 
 print(iceCreamFlavours[9])
 
-//Exercise 2
+
+    // Exercise 2
 
 for i in 0...4 {
     print (iceCreamFlavours[i])
